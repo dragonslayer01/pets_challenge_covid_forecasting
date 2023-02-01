@@ -5,7 +5,7 @@
 * Phase 1 Rank - 23 (out of 700 Teams)
 * Phase 2 Rank - 3 (out of 200 Teams)
 
-##Contents
+## Contents
 * Centraized_README.md - Guide to centralized submission codebase
 * Federated_README.md - Guide to federated submission codebase
 
