@@ -15,3 +15,5 @@
 * PET Whitepaper ZS_RDE_AI_updated - Techincal Paper for the developed solution
 
 
+
+<img width="575" alt="image" src="https://github.com/dragonslayer01/pets_challenge_covid_forecasting/assets/34786550/b0fc642b-06b4-4bfb-8a5e-6a36b196ede3">
