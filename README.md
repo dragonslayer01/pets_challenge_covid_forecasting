@@ -4,7 +4,7 @@
 * [Competition Link](https://www.drivendata.org/competitions/group/nist-federated-learning/)
 * [Problem Statement](https://www.drivendata.org/competitions/98/nist-federated-learning-1/page/525/)
 * Phase 1 Rank - 23 (out of 700 Teams) [Leaderboard](https://www.drivendata.org/competitions/98/nist-federated-learning-1/participants/)
-* Phase 2 Rank - 3 (out of 200 Teams) [Final Results](https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3](https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3#zs_rde_ai))
+* Phase 2 Rank - 3 (out of 200 Teams) [Final Results]([https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3](https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3#zs_rde_ai)](https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3#zs_rde_ai))
 * Recognised by [White House](https://www.whitehouse.gov/ostp/news-updates/2023/03/31/us-uk-annouce-winners-innovation-pets-democratic-values/)
 
 ## Contents
